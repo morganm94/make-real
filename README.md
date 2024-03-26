@@ -1,4 +1,4 @@
-> If you want to make your own version of Make Real, check out our [starter repo](https://github.com/devbluecomet/make-real).
+> If you want to make your own version of Make Real, check out our [starter repo](https://github.com/morganm94/make-real).
 
 ## make real
 
